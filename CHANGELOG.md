@@ -3,5 +3,5 @@
 
 Initial release, only two keybindings are available:
 
-* Ctrl-w — deletes last entered word.
-* Ctrl-u — deletes entire line.
+* `Ctrl-w` — deletes last entered word.
+* `Ctrl-u` — deletes entire line.

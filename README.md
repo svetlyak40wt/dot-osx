@@ -1,6 +1,8 @@
 Dotfiler: OSX configs
 =====================
 
+[![changelog](http://allmychanges.com/p/dotfiles/svetlyak40wt-osx/badge/)](http://allmychanges.com/p/dotfiles/svetlyak40wt-osx/?utm_source=badge)
+
 This repository contains my emacs configs, based on Emacs Starter Kit.
 It's purpose to be used as a repository for [dotfiler][].
 
@@ -13,7 +15,7 @@ Keybindings
 -----------
 
 This package includes two useful keybindings available in OSX
-application: Ctrl-W and Ctrl-U. First backwards delete one word,
+application: `Ctrl-w` and `Ctrl-u`. First backwards delete one word,
 latter — deletes entire line. These keybinding works in most
 system's text inputs and emulate command line behaviour.
 
